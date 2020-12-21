@@ -2,11 +2,9 @@
 Weather and Thesaurus API's
 
 Uploaded 3 jar files in order for this program to work. 
-  -pircbot.jar
-  
-  -json.jar
-  
-  -gson.jar
+-pircbot.jar
+-json.jar
+-gson.jar
 
 This program greets the user if user enters 
   -Hello
